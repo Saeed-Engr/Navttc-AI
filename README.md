@@ -1,5 +1,5 @@
 # Navttc-AI
-In this repository, AL(ML &amp; DL ) Materials 2025.
+In this repository, Navttc AI (ML &amp; DL ) Materials 2025.
 # References with Links:
 
 # Course Outline
