@@ -34,7 +34,8 @@ In this repository, Navttc AI (ML &amp; DL ) Materials 2025.
 
 <!-- Links: https://github.com/Saeed-Engr/Navttc-AI/blob/main/Machine%20Learning%20with%20Python%20Cookbook%20Practical%20Solutions%20from%20Preprocessing%20to%20Deep%20Learning%20by%20Chris%20Albon%20(z-lib.org).pdf -->
 
-# Probability
+# Statistics and Probability 
+- [Statistics Lectures](https://stattrek.com/tutorials/ap-statistics-tutorial)
 - [Probability Lectures ](https://www.khanacademy.org/math/statistics-probability/probability-library)
 <!-- Statistics and Probability: https://www.khanacademy.org/math/statistics-probability/probability-library -->
 
