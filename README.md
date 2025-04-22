@@ -39,3 +39,11 @@ In this repository, Navttc AI (ML &amp; DL ) Materials 2025.
 - [Probability Lectures ](https://www.khanacademy.org/math/statistics-probability/probability-library)
 <!-- Statistics and Probability: https://www.khanacademy.org/math/statistics-probability/probability-library -->
 
+
+# Week 5: Regression 
+- Regression and its types( Linear Regression, Multivariate Linear Regression, Polynomial Regression and Logistic Regression)
+- [Linear and Multivariate Linear Regression](https://stackabuse.com/linear-regression-in-python-with-scikit-learn/)
+<!-- - [Probability Lectures ](https://www.khanacademy.org/math/statistics-probability/probability-library)
+<!-- Statistics and Probability: https://www.khanacademy.org/math/statistics-probability/probability-library -->
+
+
