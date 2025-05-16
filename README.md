@@ -29,11 +29,6 @@ In this repository, Navttc AI (ML &amp; DL ) Materials 2025.
 - [Numpy, Pandas and Seaborn Code Examples](https://github.com/Saeed-Engr/Navttc-AI/blob/main/Python%20%20Data%20Wrangling%20with%20Pandas%2C%20NumPy.pdf)
 <!-- Book Link: https://github.com/Saeed-Engr/Navttc-AI/blob/main/Python%20%20Data%20Wrangling%20with%20Pandas%2C%20NumPy.pdf -->
 
-# Machine Learning with Python
-- [Machine Learning Hands on Practice Book]( https://github.com/Saeed-Engr/Navttc-AI/blob/main/Machine%20Learning%20with%20Python%20Cookbook%20Practical%20Solutions%20from%20Preprocessing%20to%20Deep%20Learning%20by%20Chris%20Albon%20(z-lib.org).pdf)
-
-<!-- Links: https://github.com/Saeed-Engr/Navttc-AI/blob/main/Machine%20Learning%20with%20Python%20Cookbook%20Practical%20Solutions%20from%20Preprocessing%20to%20Deep%20Learning%20by%20Chris%20Albon%20(z-lib.org).pdf -->
-
 # Statistics and Probability 
 - [Statistics Lectures](https://stattrek.com/tutorials/ap-statistics-tutorial)
 - [Probability Lectures ](https://www.khanacademy.org/math/statistics-probability/probability-library)
@@ -45,5 +40,15 @@ In this repository, Navttc AI (ML &amp; DL ) Materials 2025.
 - [Linear and Multivariate Linear Regression](https://stackabuse.com/linear-regression-in-python-with-scikit-learn/)
 <!-- - [Probability Lectures ](https://www.khanacademy.org/math/statistics-probability/probability-library)
 <!-- Statistics and Probability: https://www.khanacademy.org/math/statistics-probability/probability-library -->
+
+# Machine Learning with Python
+- [Machine Learning Hands on Practice Book]( https://github.com/Saeed-Engr/Navttc-AI/blob/main/Machine%20Learning%20with%20Python%20Cookbook%20Practical%20Solutions%20from%20Preprocessing%20to%20Deep%20Learning%20by%20Chris%20Albon%20(z-lib.org).pdf)
+
+<!-- Links: https://github.com/Saeed-Engr/Navttc-AI/blob/main/Machine%20Learning%20with%20Python%20Cookbook%20Practical%20Solutions%20from%20Preprocessing%20to%20Deep%20Learning%20by%20Chris%20Albon%20(z-lib.org).pdf -->
+
+# Deep Learning Hands on Practice Books
+- [Deep Learning with Python (1st Edition)](https://github.com/Saeed-Engr/Navttc-AI/blob/main/Deep%20Learning%20with%20Python.pdf)
+- [Deep Learning with Python (2nd Edition)](https://github.com/Saeed-Engr/Navttc-AI/blob/main/Deep%20Learning%20with%20Python%2C%202nd%20Edition%20(Final%20Release)%20by%20Francois%20Chollet.pdf)
+
 
 
