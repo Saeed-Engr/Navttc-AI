@@ -49,6 +49,8 @@ In this repository, Navttc AI (ML &amp; DL ) Materials 2025.
 # Deep Learning Hands on Practice Books
 - [Deep Learning with Python (1st Edition)](https://github.com/Saeed-Engr/Navttc-AI/blob/main/Deep%20Learning%20with%20Python.pdf)
 - [Deep Learning with Python (2nd Edition)](https://github.com/Saeed-Engr/Navttc-AI/blob/main/Deep%20Learning%20with%20Python%2C%202nd%20Edition%20(Final%20Release)%20by%20Francois%20Chollet.pdf)
+# Articles
+- [Convolutional Neural Networks (CNN) in Deep Learning](https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/)
 
 
 
