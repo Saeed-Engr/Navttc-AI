@@ -54,3 +54,7 @@ In this repository, Navttc AI (ML &amp; DL ) Materials 2025.
 
 
 
+# Natural Language Processing (NLP)
+- [Recurrent Neural Networks (RNN)](https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/)
+- [Long Short Term Memory (LSTM)](https://www.geeksforgeeks.org/deep-learning-introduction-to-long-short-term-memory/)
+- [Gated Recurrent Unit Networks](https://www.geeksforgeeks.org/gated-recurrent-unit-networks/)
